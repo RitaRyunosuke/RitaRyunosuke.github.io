@@ -18,5 +18,27 @@
   
   
     
+    
+    <entry>
+      <title>bangumis</title>
+      <link href="/bangumis/index.html"/>
+      <url>/bangumis/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* bilibli番剧插件 */.bangumi-active {    background: #dbecfe !important;    border-radius: 10px !important;  }  a.bangumi-tab:hover {    text-decoration: none !important;  }  .bangumi-button:hover {    background: #dbecfe !important;    border-radius: 10px !important;  }  a.bangumi-button.bangumi-nextpage:hover {    text-decoration: none !important;  }  .bangumi-button {    padding: 5px 10px !important;  }    a.bangumi-tab {    padding: 5px 10px !important;  }  svg.icon.faa-tada {    font-size: 1.1em;  }]]></content>
+      
+    </entry>
+    
+    
   
 </search>
